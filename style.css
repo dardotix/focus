@@ -131,7 +131,10 @@ input{
         align-self: center;
     }
     img{
-        display: none;
+        width: 360px;
+        margin-top: 50px;
+        
+        
     }
     ul{
 
