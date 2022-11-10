@@ -72,8 +72,9 @@ p{
     max-width: 500px;
 }
 img{
-    display: flex;
-    flex-direction: row;
+    align-items: center;
+    
+
 
     width: 580px;
 
