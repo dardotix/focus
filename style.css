@@ -72,8 +72,11 @@ p{
     max-width: 500px;
 }
 img{
+    display: flex;
+    flex-direction: row;
 
     width: 580px;
+
 }
 
 form{
